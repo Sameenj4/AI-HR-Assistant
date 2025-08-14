@@ -1,0 +1,5 @@
+streamlit
+sentence-transformers
+PyMuPDF
+python-docx
+ollama
